@@ -1,0 +1,23 @@
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 20px;
+
+    background-color:rgb(233, 222, 15);
+}
+
+h1{
+    font-family: Turret Road;
+    margin: 0;
+}
+
+nav{
+    font-family: Consolas;
+    font-size: 24px;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+}

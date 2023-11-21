@@ -1,0 +1,44 @@
+footer{
+    display: flex;
+    flex-direction: row;
+    align-items:flex-start;
+    justify-content: space-around;
+
+    font-family: Consolas;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(191, 191, 191);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+h2{
+    margin: 0;
+}
+p{
+    font-family: Consolas;
+    font-size: 18px;
+    margin: 0;
+    padding-top: 12px;
+}
+.foot{
+    font-family: Consolas;
+    font-size: 18px;
+    padding-top: 12px;
+}
+
+.foot:hover{
+    color: rgb(55, 77, 1);
+}
+
+.left{
+    display: flex;
+    flex-direction: column;
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+}

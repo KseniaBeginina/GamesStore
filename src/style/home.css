@@ -1,0 +1,10 @@
+section{
+    height: auto;
+}
+
+.games{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
