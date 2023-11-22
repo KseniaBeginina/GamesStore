@@ -5,7 +5,7 @@ interface Sorts{
     sorts: string[]
 }
    
-
+//Функция сортировки
 function Sorts({sorts}: Sorts){
     const [activeSpan, setActiveSpan] = useState(0);
     const [isOpen, setIsOpen] = useState(false);
