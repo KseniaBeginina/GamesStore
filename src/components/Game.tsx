@@ -1,5 +1,5 @@
 import "../style/game.css";
-
+//Интерфейс для игр
 interface Game{
         id: number,
         name: string,
